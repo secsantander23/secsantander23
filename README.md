@@ -1,11 +1,11 @@
 <div align="center">
 
-#  Pedro Layon
+# Pedro Layon
 
 **Cyber Security · Applied AI · Software Engineering**
 
-Formação avançada em Cibersecurity — **Santander**
-Full-stack · Automação · IA aplicada
+Tenho 16 anos e estou me formando em Cibersecurity pelo **Santander**.
+Programo desde sempre, uso IA no dia a dia e agora quero entender como as coisas quebram.
 
 [GitHub](https://github.com/secsantander23) · [Email](mailto:pedrocode@gmail.com)
 
@@ -13,54 +13,56 @@ Full-stack · Automação · IA aplicada
 
 ---
 
-### 01 — Perfil
+### 01 — Sobre mim
 
-Desenvolvedor com prática em engenharia de software e inteligência artificial aplicada. Trabalho com código de ponta a ponta, do front ao back, e uso IA como ferramenta diária — não como experimento isolado.
+Comecei na programação e fui empilhando por cima: front, back, ferramentas internas. A IA entrou no meio do caminho e virou parte do meu dia a dia — não é projeto de fim de semana, é como eu trabalho de verdade.
 
-Hoje aplico esse repertório em segurança da informação, com foco em análise de vulnerabilidades, infraestrutura defensiva e automação de processos.
+A segurança veio depois, e na minha visão faz falta. Antes de defender um sistema eu queria entender direito como ele quebra, como a falha acontece de verdade. É o que estou estudando agora.
+
+Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e entender erro rápido. E gosto de resolver problema — quando eu travo num bug, é o que me faz não largar a mão.
 
 ---
 
-### 02 — Foco
+### 02 — No que eu trabajo
 
-| Área | O que faço |
+| Área | Na prática |
 |---|---|
-| **Cyber Security** | Identificação e análise de vulnerabilidades, modelagem de ameaças, hardening de sistemas |
-| **Applied AI** | Integração de LLMs via API, RAG, sistemas multi-agente, automação de processos |
-| **Engineering** | Front-end, back-end, APIs REST, infraestrutura e CI/CD |
+| **Cyber Security** | Analisar vulnerabilidade, entender erro de verdade, mexer em infraestrutura para deixar mais segura |
+| **IA aplicada** | Usar LLM no fluxo real de trabalho, RAG, montar agente, automatizar processo chato |
+| **Desenvolvimento** | Front, back, API REST, integração entre sistema |
 
 ---
 
-### 03 — Background
+### 03 — Onde estou
 
 **Cibersecurity Avançado** — Santander
-`Em andamento` · 2026 — conclusão prevista em **[ANO]**
+`Cursando` · 2026 — termino em **[ANO]**
 
-<!-- Adicione formações anteriores: técnico, graduação, certificações relevantes -->
+<!-- Coloque aqui o que veio antes: técnico, escola, curso, certificação -->
 
 ---
 
-### 04 — Stack
+### 04 — O que eu uso
 
-| Domínio | Tecnologias |
+| Área | Ferramenta |
 |---|---|
-| **Linguagens** | Python · JavaScript · TypeScript |
-| **Segurança** | Pentest · Análise de vulnerabilidades · Linux / Shell · Redes · Threat Modeling |
-| **Cloud & DevOps** | AWS · Docker · CI/CD · Automação de infraestrutura |
-| **Engenharia** | Front-end · Back-end · APIs REST · Integração de sistemas |
-| **Inteligência Artificial** | LLMs · RAG · Bancos vetoriais · Agentes · Análise de dados |
+| **Linguagem** | Python · JavaScript · TypeScript |
+| **Segurança** | Pentest · Análise de vulnerabilidade · Linux / Shell · Rede · Threat Modeling |
+| **Infra** | AWS · Docker · CI/CD |
+| **Desenvolvimento** | Front-end · Back-end · API REST |
+| **IA** | LLM · RAG · Banco vetorial · Agente · Análise de dado |
 
-> Remova da tabela o que ainda não domina em produção. Lista superdimensionada é o erro mais comum — e o mais fácil de pegar em entrevista.
+> **Apague o que você ainda não usa.** Lista de ferramenta a mais é o jeito mais fácil de você ser pego numa entrevista. É melhor cinco que você manja do que quinze que só leu.
 
 ---
 
-### 05 — Projetos
+### 05 — Projeto
 
-| Repositório | Descrição | Stack |
+| Repositório | O que faz | Stack |
 |---|---|---|
-| [`dados`](https://github.com/secsantander23/dados) | Análise exploratória de dados de vendas e telemetria industrial | Python · pandas · seaborn · Jupyter |
+| [`dados`](https://github.com/secsantander23/dados) | Análise de dados de venda e de telemetria de máquina industrial | Python · pandas · seaborn · Jupyter |
 
-<!-- Adicione seus projetos de segurança aqui — é a seção mais consultada do perfil -->
+<!-- Essa é a seção que o recrutador mais olha. Coloque aqui o que você já construiu de verdade -->
 
 ---
 
@@ -72,11 +74,19 @@ Hoje aplico esse repertório em segurança da informação, com foco em análise
 ---
 
 <!--
-──────────────────────────────────────────────
+──────────────────────────────────────────────────
   CHECKLIST
-  [ ] [SEU NOME] e [ANO]
+  [ ] [ANO] de conclusão
+  [ ] decidir se quer manter "Tenho 16 anos" no topo
   [ ] revisar a tabela da seção 04
-  [ ] completar a seção 05 com projetos reais
+  [ ] completar a seção 05 com projeto real
   [ ] remover este bloco
-──────────────────────────────────────────────
+──────────────────────────────────────────────────
+
+  ⚠️  NOTA SOBRE A IDADE
+  Deixar a idade no perfil é uma escolha sua. Arguments a favor:
+  contextualiza o perfil (16 anos fazendo cybersecurity já diz muito),
+  e em estágio/primeiro emprego isso costuma ser tratado como normal.
+  Contra: existe recrutador que filtra por idade antes de ler o resto.
+  Se quiser tirar, é só apagar a linha no topo.
 -->
