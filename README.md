@@ -5,7 +5,7 @@
 I'm 16 and currently studying Cybersecurity at **Santander**.
 I've been writing code for a while, I lean on AI every day, and right now I want to really understand how things break.
 
-[GitHub](https://github.com/secsantander23) · [Email](mailto:pedrocode@gmail.com)
+[GitHub](https://github.com/secsantander23) 
 
 </div>
 
@@ -64,7 +64,6 @@ There's still a lot I don't know, but I'm quick at reading code, putting tools t
 
 ### 06 — Contact
 
-[![Email](https://img.shields.io/badge/Email-pedrocode@gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrocode@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-secsantander23-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/secsantander23)
 
 ---
