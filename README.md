@@ -4,8 +4,8 @@
 
 **Cyber Security · Applied AI · Software Engineering**
 
-Tenho 16 anos e estou me formando em Cibersecurity pelo **Santander**.
-Programo desde sempre, uso IA no dia a dia e agora quero entender como as coisas quebram.
+I'm 16 and currently studying Cybersecurity at **Santander**.
+I've been writing code for a while, I lean on AI every day, and right now I want to really understand how things break.
 
 [GitHub](https://github.com/secsantander23) · [Email](mailto:pedrocode@gmail.com)
 
@@ -13,58 +13,58 @@ Programo desde sempre, uso IA no dia a dia e agora quero entender como as coisas
 
 ---
 
-### 01 — Sobre mim
+### 01 — About me
 
-Comecei na programação e fui empilhando por cima: front, back, ferramentas internas. A IA entrou no meio do caminho e virou parte do meu dia a dia, não é projeto de fim de semana, é como eu trabalho de verdade.
+I started out writing code and kept stacking things on top of it — front-end, back-end, internal tooling. AI came in somewhere along the way and became part of how I work day to day. Not a weekend experiment, just how I actually build things.
 
-A segurança veio depois, e na minha visão faz falta. Antes de defender um sistema eu queria entender direito como ele quebra, como a falha acontece de verdade. É o que estou estudando agora.
+Security came later, and honestly it was the piece that was missing. Before you can defend a system, you need to understand how it breaks. Not memorize — actually get it. That's what I'm learning now.
 
-Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e entender erro rápido. E gosto de resolver problema — quando eu travo num bug, é o que me faz não largar a mão.
+There's still a lot I don't know, but I'm quick at reading code, putting tools together, and working out what actually went wrong when something throws. I like solving problems too — being stuck on a bug is usually the thing that keeps me going instead of walking away.
 
 ---
 
-### 02 — No que eu trabajo
+### 02 — What I work on
 
-| Área | Na prática |
+| Area | In practice |
 |---|---|
-| **Cyber Security** | Analisar vulnerabilidade, entender erro de verdade, mexer em infraestrutura para deixar mais segura |
-| **IA aplicada** | Usar LLM no fluxo real de trabalho, RAG, montar agente, automatizar processo chato |
-| **Desenvolvimento** | Front, back, API REST, integração entre sistema |
+| **Cyber Security** | Finding and understanding vulnerabilities, getting to the bottom of failures, tightening up infrastructure |
+| **Applied AI** | LLMs in real workflows, RAG, putting agents together, automating the repetitive stuff |
+| **Development** | Front-end, back-end, REST APIs, wiring separate systems together |
 
 ---
 
-### 03 — Onde estou
+### 03 — Where I'm at
 
-**Cibersecurity Avançado** — Santander
-`Cursando` · 2026 — termino em **2027**
+**Advanced Cybersecurity** — Santander
+`In progress` · 2026 — wrapping up in **2027**
 
-<!-- Coloque aqui o que veio antes: técnico, escola, curso, certificação -->
+<!-- Anything that came before: school, technical diploma, courses, certs -->
 
 ---
 
-### 04 — O que eu uso
+### 04 — What I work with
 
-| Área | Ferramenta |
+| Area | Tools |
 |---|---|
-| **Linguagem** | Python · JavaScript · TypeScript |
-| **Segurança** | Pentest · Análise de vulnerabilidade · Linux / Shell · Rede · Threat Modeling |
-| **Infra** | AWS · Docker · CI/CD |
-| **Desenvolvimento** | Front-end · Back-end · API REST |
-| **IA** | LLM · RAG · Banco vetorial · Agente · Análise de dado |
+| **Languages** | Python · JavaScript · TypeScript |
+| **Security** | Pentesting · Vulnerability analysis · Linux / Shell · Networking · Threat Modeling |
+| **Infrastructure** | AWS · Docker · CI/CD |
+| **Development** | Front-end · Back-end · REST APIs |
+| **AI** | LLMs · RAG · Vector databases · Agents · Data analysis |
 
 ---
 
-### 05 — Projeto
+### 05 — Projects
 
-| Repositório | O que faz | Stack |
+| Repository | What it does | Stack |
 |---|---|---|
-| [`dados`](https://github.com/secsantander23/dados) | Análise de dados de venda e de telemetria de máquina industrial | Python · pandas · seaborn · Jupyter |
+| [`dados`](https://github.com/secsantander23/dados) | Exploratory analysis of sales data and industrial machine telemetry | Python · pandas · seaborn · Jupyter |
 
-<!-- Essa é a seção que o recrutador mais olha. Coloque aqui o que você já construiu de verdade -->
+<!-- This is the section people actually scroll to. Put your real work here. -->
 
 ---
 
-### 06 — Contato
+### 06 — Contact
 
 [![Email](https://img.shields.io/badge/Email-pedrocode@gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrocode@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-secsantander23-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/secsantander23)
@@ -74,17 +74,16 @@ Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e enten
 <!--
 ──────────────────────────────────────────────────
   CHECKLIST
-  [ ] [ANO] de conclusão
-  [ ] decidir se quer manter "Tenho 16 anos" no topo
-  [ ] revisar a tabela da seção 04
-  [ ] completar a seção 05 com projeto real
-  [ ] remover este bloco
+  [ ] decide whether "I'm 16" stays up top
+  [ ] trim the table in section 04
+  [ ] fill in section 05 with real projects
+  [ ] delete this block
 ──────────────────────────────────────────────────
 
-  ⚠️  NOTA SOBRE A IDADE
-  Deixar a idade no perfil é uma escolha sua. Arguments a favor:
-  contextualiza o perfil (16 anos fazendo cybersecurity já diz muito),
-  e em estágio/primeiro emprego isso costuma ser tratado como normal.
-  Contra: existe recrutador que filtra por idade antes de ler o resto.
-  Se quiser tirar, é só apagar a linha no topo.
+  ⚠️  NOTE ON THE AGE LINE
+  Putting your age out there is your call. For: it frames everything —
+  a 16-year-old already going after cybersecurity says a lot on its own,
+  and at intern / first-job level it's usually treated as normal.
+  Against: some recruiters filter on age before they read the rest.
+  To remove it, delete that line from the header.
 -->
