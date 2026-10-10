@@ -36,7 +36,7 @@ Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e enten
 ### 03 — Onde estou
 
 **Cibersecurity Avançado** — Santander
-`Cursando` · 2026 — termino em **[ANO]**
+`Cursando` · 2026 — termino em **207**
 
 <!-- Coloque aqui o que veio antes: técnico, escola, curso, certificação -->
 
@@ -51,8 +51,6 @@ Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e enten
 | **Infra** | AWS · Docker · CI/CD |
 | **Desenvolvimento** | Front-end · Back-end · API REST |
 | **IA** | LLM · RAG · Banco vetorial · Agente · Análise de dado |
-
-> **Apague o que você ainda não usa.** Lista de ferramenta a mais é o jeito mais fácil de você ser pego numa entrevista. É melhor cinco que você manja do que quinze que só leu.
 
 ---
 
