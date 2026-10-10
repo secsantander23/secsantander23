@@ -15,7 +15,7 @@ Programo desde sempre, uso IA no dia a dia e agora quero entender como as coisas
 
 ### 01 — Sobre mim
 
-Comecei na programação e fui empilhando por cima: front, back, ferramentas internas. A IA entrou no meio do caminho e virou parte do meu dia a dia — não é projeto de fim de semana, é como eu trabalho de verdade.
+Comecei na programação e fui empilhando por cima: front, back, ferramentas internas. A IA entrou no meio do caminho e virou parte do meu dia a dia, não é projeto de fim de semana, é como eu trabalho de verdade.
 
 A segurança veio depois, e na minha visão faz falta. Antes de defender um sistema eu queria entender direito como ele quebra, como a falha acontece de verdade. É o que estou estudando agora.
 
