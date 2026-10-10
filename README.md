@@ -36,7 +36,7 @@ Ainda tenho muito a aprender, mas Saya ler código, construir ferramenta e enten
 ### 03 — Onde estou
 
 **Cibersecurity Avançado** — Santander
-`Cursando` · 2026 — termino em **207**
+`Cursando` · 2026 — termino em **2027**
 
 <!-- Coloque aqui o que veio antes: técnico, escola, curso, certificação -->
 
