@@ -1,7 +1,5 @@
 <div align="center">
 
-# Pedro Layon
-
 **Cyber Security · Applied AI · Software Engineering**
 
 I'm 16 and currently studying Cybersecurity at **Santander**.
